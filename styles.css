@@ -1,0 +1,26 @@
+body{
+  background-color: #393E46;
+  text-align: center;
+}
+h1{
+  padding-top:2%;
+  color: #4ECCA3;
+font-family: 'Sofia', cursive;
+  font-size: 6.5rem;
+padding-bottom: 5%;
+}
+img{
+  height:200px;
+}
+footer{
+  color: #fff;
+  margin-top: 50px;
+}
+p{
+  color: #4ECCA3;
+  font-size: 2rem;
+}
+div{
+  display: inline-block;
+  margin-left: 40px;
+}
